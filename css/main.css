@@ -1,0 +1,147 @@
+/* Inserta tu codigo aqui */
+/*header*/
+}
+.header{
+	position: fixed;
+	z-index: 2;
+}
+.titulo{
+	margin-top: 30px;
+	text-align: center;
+	font-family: Latolight;
+	font-size: 20px;
+}
+
+.menu{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.menu li{
+	display: inline-block;	
+}
+
+.menu a{
+	text-decoration: none;
+	padding: 10px;
+	margin-left: 40px;
+	color: #7B7777;
+	font-size: 
+}
+
+/*section bailarina*/
+ .grande{
+	background-image: url(../img/dance_1.jpg);
+	width: 100%;
+	height: 520px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.studio{
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 50px;
+}
+
+.texto1{
+	width: 180px;
+	margin-top: 30px;
+	margin-left: 80px;
+
+}
+
+.texto2{
+	color: white;
+	text-align: left;
+	font-size: 12px;
+}
+
+.boton{
+	background-color: #1A2952;
+	width: 30%;
+	height: 40px;
+	margin-left: 80px;
+	margin-top: 40px;
+	border-radius: 3px;
+}
+.boton a{
+	color: white;
+}
+
+/* section texto oferta Julliart*/
+
+.oferta1{
+	background-image: url(../img/textura_2.jpg);
+}
+
+.julliart{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.julliart1{
+	text-align: center;
+	font-family: Latolight;
+	width: 80%;
+}
+
+
+
+.trebol2{
+	width: 40%;
+	margin-top: -40px;
+
+}
+
+
+.btn{
+	margin-bottom: 30px;
+}
+
+.btn2{
+	width: 50%;
+	height: 40px;
+	background-color: #1A2952;
+}
+
+.btn2 a{
+	color: #F0F0F0;
+
+}
+
+/*Section foto hombre-bailarina*/
+.instructor{
+	background-image: url(../img/instructor_4.jpg);
+	background-repeat: no-repeat;
+	background-position: center 10%;
+	background-size:cover;
+	height: 45vh;
+
+
+}
+
+.profesora{
+	background-image: url(../img/profesor_9.jpg);
+	background-repeat: no-repeat;
+	background-position: center 10%;
+	background-size: cover;
+	height: 45vh;
+}
+
+.btn3{
+	width: 60%;
+	height: 55px;
+	background-color: #1A2952;
+	margin-top: -80px;
+
+}
+
+.btn3 a{
+	color: white;
+}
+
+
