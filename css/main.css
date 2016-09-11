@@ -140,8 +140,96 @@
 
 }
 
+.boton3{
+	margin-top: -39px;
+}
+
+
 .btn3 a{
 	color: white;
 }
 
 
+.btn3 a{
+  	color: white;
+ 	font-size: 15px;
+ }
+ 
+ /* Section frase*/
+ .frase1{
+ 	background-image: url(../img/textura_2.jpg);
+ 
+  }
+  
+ .frase2{
+ 	margin-top: 70px;
+ 	margin-bottom: 70px;
+ }
+ 
+ .frase3{
+ 	width: 100%;
+ 	font-size: 35px;
+ 	color: #1D1D1D;
+ 	font-style: italic;
+ }
+ 
+ /*section mapa*/
+ .mapa{
+ 	background-color: #04162D;
+ 	font-family: Latolight;
+ 
+ }
+ 
+ .parrafo{
+ 	margin-top: 20px;
+ }
+ 
+ .parrafo2{
+ 	font-size: 10px;
+ 	font-family: Latolight;
+ 	width: 55%;
+ 	margin: 50px 50px 50px 50px;
+ 	line-height: 17px;
+ }
+ 
+ .visit{
+ 	margin-top: -20px;
+ 	margin-left: 50px;
+ 	margin-bottom: 7px;
+ }
+ +
+ .direccion{
+ 	margin-left: 50px;
+ 	font-family: Latolight;
+ 	margin-bottom: 65px;
+ 
+ }
+ 
+ .num{
+ 	font-size: 10px;
+ 	width: 44%;
+ 	line-height: 17px;
+ }
+ 
+ .fotomapa{
+ 	margin-top: -250px;
+ 	margin-left: 600px;
+ 	margin-bottom: 50px;
+ }
+ 
+ iframe{
+ 	width: 73%;
+ }
+ 
+ /* Section formulario*/
+ .vacio{
+ 	width: 100%;
+ }
+ 
+ .formulario1{
+ 	background-image: url(../img/shoes_!.jpg);
+ 	background-repeat: no-repeat;
+ 	background-position: 650px;
+ 	height: 70vh;
+  
+ } 
